@@ -6,7 +6,7 @@ script to save data to dontpad directories automatically from a wordlist
 ##### usage:
 `git clone https://github.com/71460-4-F/Dumpdont.git`
 `cd Dumpdont`
-`chmod +x dontdont.sh`
+`chmod +x dumpdont.sh`
 `./dontdont.sh`
 
 ##### example:
